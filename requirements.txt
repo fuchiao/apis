@@ -1,0 +1,6 @@
+falcon==1.0.0
+gunicorn==19.5.0
+python-mimeparse==1.5.2
+six==1.10.0
+http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.4.zip#md5=3df394d89300db95163f17c843ef49df
+arrow==0.8.0
